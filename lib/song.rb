@@ -4,4 +4,4 @@ class Song
  
 end
 
-sing.artist.name
+song.artist.name
